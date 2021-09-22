@@ -1,6 +1,6 @@
-[![MasterHead](https://www.topgun-tech.com/wp-content/uploads/2017/01/AdobeStock_120502836.jpg)](https://Royal-Akash.github.io)(p align="left")
-<h1 align="center">Hi 👋, I'm Akash Jha</h1>
-<h3 align="center">I am currently pursuing Bachelors of Information Technology and Engineering from Maharaja Agrasen Institute of Technology. I am also a Frontend Developer and Competitive Programmer. My hobbies are cycling and playing online game. I am greatly interested in learning Backend development and artificial intelligence. I am enthusiastically looking forward to contribute to open source projects through Github.</h3>
+[![MasterHead](https://www.topgun-tech.com/wp-content/uploads/2017/01/AdobeStock_120502836.jpg)](https://Royal-Akash.github.io)
+<h1 align="center">Hi 👋 Developer, I'm Akash Jha</h1>
+<h3 align="center">I am sophmore, pursuing Bachelors of Information Technology and Engineering from Maharaja Agrasen Institute of Technology. I am also a Frontend Developer and Competitive Programmer. My hobbies are cycling and playing online game. I am greatly interested in learning Backend development and artificial intelligence. I am enthusiastically looking forward to contribute to open source projects through Github.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royal-akash&label=Profile%20views&color=0e75b6&style=flat" alt="royal-akash" /> </p>
 
@@ -33,5 +33,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=royal-akash&show_icons=true&locale=en" alt="royal-akash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=royal-akash&" alt="royal-akash" /></p>
+
 
 
