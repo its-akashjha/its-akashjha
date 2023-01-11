@@ -1,14 +1,14 @@
 [![MasterHead](https://www.topgun-tech.com/wp-content/uploads/2017/01/AdobeStock_120502836.jpg)](https://Royal-Akash.github.io)
 <h1 align="center">Hi 👋 Developer, I'm Akash Jha</h1>
-<h3 align="center">I am sophmore, pursuing Bachelors of Information Technology and Engineering from Maharaja Agrasen Institute of Technology. I am also a Frontend Developer and Competitive Programmer. I am greatly interested in learning Backend development and artificial intelligence.</h3>
+<h3 align="center">I am pre final year student, pursuing Bachelors of Information Technology and Engineering from Maharaja Agrasen Institute of Technology. I am also a MERN stack Developer and Competitive Programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=royal-akash&label=Profile%20views&color=0e75b6&style=flat" alt="royal-akash" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royal-akash" alt="royal-akash" /></a> </p>
 
-- 🔭 I’m currently working on **news app**
+- 🔭 I’m currently working on **chrome extension**
 
-- 🌱 I’m currently learning **backend database**
+- 🌱 I’m currently learning **Algo**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **akashjha412@gmail.com**
 
-- ⚡ Fun fact **I like Dark mode**
+- ⚡ Fun fact **Still finding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
