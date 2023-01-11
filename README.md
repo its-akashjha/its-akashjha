@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royal-akash" alt="royal-akash" /></a> </p>
 
-- 🔭 I’m currently working on **chrome extension**
+- 🔭 I’m currently working on **Chrome extension**
 
 - 🌱 I’m currently learning **Algo**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
-- 💬 Ask me about **anything. I am happy to help**
+- 💬 Ask me about **anything. I am ready to help**
 
 - 📫 How to reach me **akashjha412@gmail.com**
 
-- ⚡ Fun fact **Still finding**
+- ⚡ Fun fact **: Still finding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -38,7 +38,7 @@
 
 <a href="https://github.com/Royal-Akash"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Royal-Akash&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/Royal-Akash"><img src="https://activity-graph.herokuapp.com/graph?username=Royal-Akash&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="https://github.com/Royal-Akash"><img src="https://activity-graph.herokuapp.com/graph?username=Royal-Akash&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Royal-Akash.Royal-Akash&color=44CC11)
+<!-- ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Royal-Akash.Royal-Akash&color=44CC11) -->
 
