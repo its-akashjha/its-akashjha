@@ -1,8 +1,8 @@
-[![MasterHead](https://www.topgun-tech.com/wp-content/uploads/2017/01/AdobeStock_120502836.jpg)](https://Royal-Akash.github.io)
+[![MasterHead](https://www.topgun-tech.com/wp-content/uploads/2017/01/AdobeStock_120502836.jpg)](https://its-akashjha.github.io)
 <h1 align="center">Hi 👋 Developer, I'm Akash Jha</h1>
 <h3 align="center">I am pre final year student, pursuing Bachelors of Information Technology and Engineering from Maharaja Agrasen Institute of Technology. I am a MERN stack Developer and Competitive Programmer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=royal-akash&label=Profile%20views&color=0e75b6&style=flat" alt="royal-akash" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=royal-akash&label=Profile%20views&color=0e75b6&style=flat" alt="royal-akash" /> </p>
 
 <!-- Trophies -->
 <p align="center">
