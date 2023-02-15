@@ -53,14 +53,14 @@ src="https://raw.githubusercontent.com/its-akashjha/its-akashjha/main/Resources/
 
 <!-- Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=its-akashjha&theme=dark" alt="Github Streak of Aashish Katwal" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=its-akashjha&theme=dark" alt="Github Streak of Akash Jha" />
 </p>
 <br/>
 
 <br/>
 <!--  Most used languages Stat  -->
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-akashjha&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Aashish Katwal Most Used Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=its-akashjha&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="Akash Jha Most Used Languages" />
 </p>
 <br/>
 
