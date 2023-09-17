@@ -10,7 +10,7 @@ src="https://raw.githubusercontent.com/its-akashjha/its-akashjha/main/Resources/
 
 
 
-<h3 align="center">I am pre final year student, pursuing Bachelors of Information Technology and Engineering from Maharaja Agrasen Institute of Technology. I am a MERN stack Developer and Competitive Programmer.</h3>
+<h3 align="center">I am final year student, pursuing Bachelors of Information Technology and Engineering from Maharaja Agrasen Institute of Technology. I am a MERN stack Developer and Competitive Programmer.</h3>
 <br />
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=royal-akash&label=Profile%20views&color=0e75b6&style=flat" alt="royal-akash" /> </p>
